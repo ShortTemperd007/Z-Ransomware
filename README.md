@@ -1,4 +1,5 @@
 # Z-ransom
+  <img src="zr 1">
 
 #### Z-Ransom (Create Android Ransomware In Kali linux and  Termux (NO ROOT)
 
@@ -30,7 +31,7 @@ pkg update && pkg upgrade -y
 pkg install python3 -y
 ```
 ```bash
-git clone https://github.com/caronero/Z-ransom
+git clone https://github.com/ShortTemperd007/Z-Ransomware.git
 ```
 ```bash
 cd xransom
@@ -41,6 +42,22 @@ bash install.sh
 ```bash
 python3 zransom.py
 ```
+    Screenshot of the usage are
+    
+    <img src="zr 1">
+    
+    <img src="zr 2">
+    
+    <img src="zr 3">
+    
+    For more info contact
+    
+    Instagram  https://www.instagram.com/shorttemperd007/
+    
+    github    https://github.com/ShortTemperd007
+    
+    substack  https://substack.com/profile/127349544-muhammad-huzaifa?utm_source=user-menu
+    
 
      
 ##### <p align="center">```And Thanks for choosing this tool Support Us !```
