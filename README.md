@@ -1,11 +1,11 @@
-# Z-ransom
+ Z-ransom
   <img src="zr 1.png">
 
-#### Z-Ransom (Create Android Ransomware In Kali linux and  Termux (NO ROOT)
+ Z-Ransom (Create Android Ransomware In Kali linux and  Termux (NO ROOT)
 
 
-### <p align="center">Commands to run tool in ur terminal 
-### <p align="center">Note: this tool is a copy from termuxid tool and this just edited tool you can find it in github
+<p align="center">Commands to run tool in ur terminal 
+<p align="center">Note: this tool is a copy from termuxid tool and this just edited tool you can find it in github
 
     
 Note : Tool is Made of Educational Purposes only.
@@ -14,7 +14,7 @@ Note : Tool is Made of Educational Purposes only.
        
        
 
-### Installation for linux
+ Installation for linux
   
 Quick installation for Ubuntu, Kali Linux, Darwin (MAC)
 
