@@ -15,32 +15,27 @@ Note : Tool is Made of Educational Purposes only.
        it's For Fun Purpose Not For Revenge
        
        
-```
 
 ### Installation for linux
+  
 Quick installation for Ubuntu, Kali Linux, Darwin (MAC)
-```bash
+
 git clone https://github.com/caronero/Z-ransom.git && cd Z-ransom && sudo bash install.sh
-```
 
 ### Installation for termux 
-```bash
+  
 pkg update && pkg upgrade -y
-```
-```bash
+
 pkg install python3 -y
-```
-```bash
+
 git clone https://github.com/ShortTemperd007/Z-Ransomware.git
-```
-```bash
+  
 cd xransom
-```
-```bash
+  
 bash install.sh
-```
-```bash
+  
 python3 zransom.py
+  
   
   
     Screenshot of the usage are
