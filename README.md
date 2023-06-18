@@ -41,7 +41,8 @@ bash install.sh
 ```
 ```bash
 python3 zransom.py
-```
+  
+  
     Screenshot of the usage are
     
     <img src="zr 1.png">
