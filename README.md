@@ -1,5 +1,5 @@
 # Z-ransom
-  <img src="zr 1">
+  <img src="zr 1.png">
 
 #### Z-Ransom (Create Android Ransomware In Kali linux and  Termux (NO ROOT)
 
@@ -44,11 +44,11 @@ python3 zransom.py
 ```
     Screenshot of the usage are
     
-    <img src="zr 1">
+    <img src="zr 1.png">
     
-    <img src="zr 2">
+    <img src="zr 2.png">
     
-    <img src="zr 3">
+    <img src="zr 3.png">
     
     For more info contact
     
