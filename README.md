@@ -50,7 +50,6 @@ python3 zransom.py
     
   github    https://github.com/ShortTemperd007
     
- ![zr 1](https://github.com/ShortTemperd007/Z-Ransomware/assets/136009772/78b9b2a7-bb45-4027-be18-c947349a951b)
  substack  https://substack.com/profile/127349544-muhammad-huzaifa?utm_source=user-menu
     
 
